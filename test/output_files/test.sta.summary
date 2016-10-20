@@ -1,0 +1,69 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : 16.390
+TNS   : 0.000
+
+Type  : Slow Model Setup 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 50.491
+TNS   : 0.000
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 0.529
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : -0.806
+TNS   : -7.254
+
+Type  : Slow Model Removal 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 3.436
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 26.142
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : 18.297
+TNS   : 0.000
+
+Type  : Fast Model Setup 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 52.535
+TNS   : 0.000
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 0.540
+TNS   : 0.000
+
+Type  : Fast Model Removal 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 2.200
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'inst10|inst_de2beeper|b2v_inst_clockGenrator|audioPllClockGen|altpll_component|pll|clk[0]'
+Slack : 26.142
+TNS   : 0.000
+
+------------------------------------------------------------

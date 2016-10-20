@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\SPS\horovtom\test\simulation\qsim
+vKOM2
+Z1 !s100 7^16icaSLWEiFY_ong1iV1
+Z2 IBnI2nLNITf]>4joG?QCXo2
+Z3 VbY^F_C[BOgo4`Bdl>5CUN2
+Z4 dC:\SPS\horovtom\test\simulation\qsim
+Z5 w1476375391
+Z6 8test.vo
+Z7 Ftest.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|test.vo|
+Z10 o-work work -O0
+Z11 n@k@o@m2
+!i10b 1
+!s85 0
+Z12 !s108 1476375391.759000
+Z13 !s107 test.vo|
+!s101 -O0
+vKOM2_vlg_check_tst
+!i10b 1
+Z14 !s100 QKmFIfiWf6[[Kob^8l4DM0
+Z15 IM[FBI7feJoR0:N>FDkm^D0
+Z16 VzL1V>O9hSP3?@]Of`nXiI2
+R4
+Z17 w1476375390
+Z18 8test.vt
+Z19 Ftest.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z20 !s108 1476375391.790000
+Z21 !s107 test.vt|
+Z22 !s90 -work|work|test.vt|
+!s101 -O0
+R10
+Z23 n@k@o@m2_vlg_check_tst
+vKOM2_vlg_sample_tst
+!i10b 1
+Z24 !s100 mYn<NA:?:Xj]RKa<2d4dD3
+Z25 IEITKaR_HWz[g<I]<jhH`12
+Z26 VX=zkY2aX_]a=4GoB`OUNM2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@k@o@m2_vlg_sample_tst
+vKOM2_vlg_vec_tst
+!i10b 1
+!s100 ?>?KbL;110mFB=<oUOWX03
+I>F5aK0Z?PgEYAf1RYINGK2
+Z28 VWKTV4_6V7zX^EG15ZhK621
+R4
+R17
+R18
+R19
+Z29 L0 185
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@k@o@m2_vlg_vec_tst
+vmajorita3
+Z31 I@N`V1A1:P0Je;dIB9oi]`1
+Z32 ViFJGWG@hhY?2h6cbECP`[2
+R4
+Z33 w1476373499
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z34 !s100 4daGDf;S>fL@TF@efBlad2
+Z35 !s108 1476373500.156000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vmajorita3_vlg_check_tst
+Z36 !s100 eHb^35ncIUzDUE;Emn8eI3
+Z37 IBCd[TQWW>S7b3C_;ee^9f3
+Z38 VDjClD6g4AK6Fd[W0dP5Wk2
+R4
+Z39 w1476373498
+R18
+R19
+L0 61
+R8
+r1
+31
+Z40 !s108 1476373500.187000
+Z41 !s107 test.vt|
+R22
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vmajorita3_vlg_sample_tst
+Z42 !s100 Oelio>^B^oB8CmdfbG[6B3
+Z43 I@Z9Eoo15WPLS?S06@JFDN0
+Z44 VjK7hoW=Unlg`hS>lfW2nb3
+R4
+R39
+R18
+R19
+L0 29
+R8
+r1
+31
+R40
+R41
+R22
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vmajorita3_vlg_vec_tst
+Z45 !s100 @66BdC>m4`?5Pkc]lc1eQ1
+Z46 I0?>;MPege^[4RO;cn_4h51
+Z47 V@XUd]?WHB63E7m>Nl@NYZ2
+R4
+R39
+R18
+R19
+Z48 L0 156
+R8
+r1
+31
+R40
+R41
+R22
+R10
+!i10b 1
+!s85 0
+!s101 -O0
